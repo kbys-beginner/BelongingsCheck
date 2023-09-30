@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BelongingsCheck" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@android:color/holo_green_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@android:color/holo_green_dark</item>
+        <item name="colorSecondary">@android:color/holo_green_light</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorSecondaryVariant">@android:color/holo_green_light</item>
+        <item name="android:textSize">20dp</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <style name="Theme.BelongingsCheck" parent="Base.Theme.BelongingsCheck" />
+</resources>
